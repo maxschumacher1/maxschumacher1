@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxschumacher1
+- 👀 I’m interested in IT Security
+- 🌱 I’m currently learning Python
